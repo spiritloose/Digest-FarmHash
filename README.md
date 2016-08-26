@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/spiritloose/Digest-FarmHash.svg?branch=master)](https://travis-ci.org/spiritloose/Digest-FarmHash)
 # NAME
 
 Digest::FarmHash - FarmHash Implementation For Perl
