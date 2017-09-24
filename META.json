@@ -4,13 +4,13 @@
       "Jiro Nishiguchi <jiro@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v3.0.4, CPAN::Meta::Converter version 2.150010",
+   "generated_by" : "Minilla/v3.0.13, CPAN::Meta::Converter version 2.150010",
    "license" : [
       "mit"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
-      "version" : "2"
+      "version" : 2
    },
    "name" : "Digest-FarmHash",
    "no_index" : {
@@ -71,5 +71,5 @@
       }
    },
    "version" : "0.01",
-   "x_serialization_backend" : "JSON::PP version 2.27400"
+   "x_serialization_backend" : "JSON::PP version 2.94"
 }
